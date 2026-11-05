@@ -1,0 +1,13 @@
+# Generated from Conda env: pytorch_2_8_0_py311
+# Python: 3.11.15
+# PyTorch CUDA runtime: 12.9
+--extra-index-url https://download.pytorch.org/whl/cu129
+
+torch==2.8.0+cu129
+torchvision==0.23.0+cu129
+tensorboard==2.20.0
+numpy==2.4.3
+scipy==1.17.1
+matplotlib==3.10.8
+Pillow==12.1.1
+opencv-python==4.13.0.92
